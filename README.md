@@ -1,1 +1,0 @@
-# snakeAI_FE
