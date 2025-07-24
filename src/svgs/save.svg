@@ -1,0 +1,38 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="30" y="10" width="5" height="5" fill="#131200"/>
+<rect x="55" y="30" width="5" height="5" transform="rotate(90 55 30)" fill="#131200"/>
+<rect x="55" y="20" width="5" height="5" transform="rotate(90 55 20)" fill="#131200"/>
+<rect x="50" y="20" width="5" height="5" transform="rotate(90 50 20)" fill="#131200"/>
+<rect x="45" y="20" width="5" height="5" transform="rotate(90 45 20)" fill="#131200"/>
+<rect x="40" y="20" width="5" height="5" transform="rotate(90 40 20)" fill="#131200"/>
+<rect x="35" y="25" width="5" height="5" transform="rotate(90 35 25)" fill="#131200"/>
+<rect x="35" y="30" width="5" height="5" transform="rotate(90 35 30)" fill="#131200"/>
+<rect x="45" y="35" width="5" height="5" transform="rotate(90 45 35)" fill="#131200"/>
+<rect x="40" y="35" width="5" height="5" transform="rotate(90 40 35)" fill="#131200"/>
+<rect x="50" y="35" width="5" height="5" transform="rotate(90 50 35)" fill="#131200"/>
+<rect x="10" y="30" width="5" height="5" transform="rotate(90 10 30)" fill="#131200"/>
+<rect x="10" y="20" width="5" height="5" transform="rotate(90 10 20)" fill="#131200"/>
+<rect x="30" y="45" width="5" height="5" fill="#131200"/>
+<rect x="15" y="10" width="5" height="5" fill="#131200"/>
+<rect x="15" y="45" width="5" height="5" fill="#131200"/>
+<rect x="10" y="10" width="5" height="5" fill="#131200"/>
+<rect x="10" y="45" width="5" height="5" fill="#131200"/>
+<rect x="35" y="10" width="5" height="5" fill="#131200"/>
+<rect x="55" y="35" width="5" height="5" transform="rotate(90 55 35)" fill="#131200"/>
+<rect x="10" y="35" width="5" height="5" transform="rotate(90 10 35)" fill="#131200"/>
+<rect x="35" y="45" width="5" height="5" fill="#131200"/>
+<rect x="20" y="10" width="5" height="5" fill="#131200"/>
+<rect x="20" y="45" width="5" height="5" fill="#131200"/>
+<rect x="40" y="10" width="5" height="5" fill="#131200"/>
+<rect x="55" y="40" width="5" height="5" transform="rotate(90 55 40)" fill="#131200"/>
+<rect x="10" y="40" width="5" height="5" transform="rotate(90 10 40)" fill="#131200"/>
+<rect x="40" y="45" width="5" height="5" fill="#131200"/>
+<rect x="25" y="10" width="5" height="5" fill="#131200"/>
+<rect x="55" y="25" width="5" height="5" transform="rotate(90 55 25)" fill="#131200"/>
+<rect x="55" y="15" width="5" height="5" transform="rotate(90 55 15)" fill="#131200"/>
+<rect x="10" y="25" width="5" height="5" transform="rotate(90 10 25)" fill="#131200"/>
+<rect x="10" y="15" width="5" height="5" transform="rotate(90 10 15)" fill="#131200"/>
+<rect x="25" y="45" width="5" height="5" fill="#131200"/>
+<rect x="45" y="10" width="5" height="5" fill="#131200"/>
+<rect x="45" y="45" width="5" height="5" fill="#131200"/>
+</svg>

@@ -1,0 +1,106 @@
+.progress-container {
+  width: 80px;
+  height: 32px;
+  background-color: transparent;
+  border-radius: 7px;
+  overflow: hidden;
+  position: relative;
+  border: 2px solid black
+}
+
+.progress-fill {
+  --progress: 50;
+  background-color: black;
+  width: calc(var(--progress) * 1%);
+  height: 30px;
+  clip-path: polygon(0 0, calc(100% - 15px) 0, calc(100% )  100% , 0% 100%);
+  transition: width 0.4s ease;
+}
+
+.retro-text {
+  font-size: 2rem;
+}
+
+.retro-text-small {
+  font-size: 1rem;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+  .retro-title {
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+  }
+
+  .avatar-container {
+    width: 80px;
+    height: 80px;
+  }
+
+  .pixel-avatar {
+    width: 60px;
+    height: 60px;
+  }
+
+  .pixel-avatar::before,
+  .pixel-avatar::after {
+    width: 10px;
+    height: 10px;
+    top: 15px;
+  }
+
+  .pixel-avatar::before {
+    left: 15px;
+  }
+
+  .pixel-avatar::after {
+    right: 15px;
+  }
+
+  .proposal-btn {
+    font-size: 0.6rem;
+    padding: 8px 15px;
+    border-radius: 0;
+    border: 1px solid black;
+  }
+
+  .stats-value {
+    font-size: 1rem;
+  }
+
+  .countdown-number {
+    font-size: 1.2rem;
+  }
+
+  .countdown-box {
+    min-width: 60px;
+    padding: 10px 5px;
+  }
+}
+
+@media (max-width: 576px) {
+  .countdown-box {
+    min-width: 50px;
+    padding: 8px 3px;
+  }
+
+  .countdown-number {
+    font-size: 1rem;
+  }
+
+  .countdown-label {
+    font-size: 0.4rem;
+  }
+}
+
+@media (min-width: 769px) {
+  .countdown-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .retro-title {
+    font-size: 2.8rem;
+  }
+}

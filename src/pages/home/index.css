@@ -1,0 +1,18 @@
+.progress-container {
+  width: 80px;
+  height: 32px;
+  background-color: transparent;
+  border-radius: 7px;
+  overflow: hidden;
+  position: relative;
+  border: 2px solid black
+}
+
+.progress-fill {
+  --progress: 50;
+  background-color: black;
+  width: calc(var(--progress) * 1%);
+  height: 30px;
+  clip-path: polygon(0 0, calc(100% - 15px) 0, calc(100% )  100% , 0% 100%);
+  transition: width 0.4s ease;
+}
